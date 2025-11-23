@@ -1,3 +1,5 @@
+<img src='https://github.com/fabiomatricardi/CLI-python-system-monitor/raw/main/console.jpg' width=900>
+
 # CLI-python-system-monitor
 a small CLI app in python with EXE package to monitor CPU/RAM
 
